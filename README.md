@@ -1,3 +1,20 @@
+#Welcome
+
+Welcome to the NHS central repository of RPA processes that have been developed by and/or for the England National Health Service (NHS). These RPA processors are available to be used by healthcare organisations to accelerate there adoption of RPA and remove burden and duplication using technology.
+
+Please Note: these shared processors come with no warrenty or support as standard and it is the responsibility of the person or organisation downloading these processes to assure that they are fit for purpose and security controls are in place and adhered to inline with your organisations governance and assurance procedures.
+
+#Pre-requisites  
+
+1. A RPA BOT and vendor Licience for the RPA process required: The RPA processors with this directory require Vendor RPA Software and supporting application license/user agreement to be inplace. The RPA Vendors software with can be used by the process such as but not limited to:
+
+- Automation Anywhere (https://www.automationanywhere.com/)
+- Blue Prism (https://www.blueprism.com)
+- UI Path (https://www.uipath.com/)
+
+Please Note: RPA Process within this repository are only able to run on the vendor software idntified within each process repository process folder and not with across each vendor.
+
+
 # Introduction
 
 The Robotic Process Automation (RPA) Open Source Programme is about making best practice IT solutions in health and care accessible to all who purchase subscriptions to the underlying RPA software products. By making the scripts, bots, and process flow freely available and downloadable from platforms such as GitHub, the health and care system can develop, improve or tailor open-source software to suit their organisational local needs.
