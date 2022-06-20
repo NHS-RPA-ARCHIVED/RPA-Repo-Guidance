@@ -42,11 +42,11 @@ Details on how to install and setup git can be found at https://docs.github.com/
 Using the Example RPA directory please upload your RPA Process code in the following layout this will allow easy access to information about the process (which systems it connects), the process code, RPA Vendor Details, Any or None Support Information and License details
 
  "MeaningProcess Name" <- Repo Folder
- └ "Readme.md" <- information about the process
- └ "Process Code" <- Folder containing RPA Process"
- └ "RPA Vendor Information" <- Folder Containing any additional Vendor RPA BOT Support Documents/Configuration
- └ "Support" <- Folder Containing any Support documentation or contact details for additional support services
- └ "License" <- Folder Containing Open Gov v3 Lic
+  "Readme.md" <- information about the process
+  "Process Code" <- Folder containing RPA Process"
+  "RPA Vendor Information" <- Folder Containing any additional Vendor RPA BOT Support Documents/Configuration
+  "Support" <- Folder Containing any Support documentation or contact details for additional support services
+  "License" <- Folder Containing Open Gov v3 Lic
 
 The Readme file in the lop level (Root) directory should contains
 
