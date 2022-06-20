@@ -46,7 +46,7 @@ Using the Example RPA directory please upload your RPA Process code in the follo
   - "Process Code" <- Folder containing RPA Process"
   - "RPA Vendor Information" <- Folder Containing any additional Vendor RPA BOT Support Documents/Configuration
   - "Support" <- Folder Containing any Support documentation or contact details for additional support services
-  - "License" <- Folder Containing Open Gov v3 Lic
+  - "License" <- file Containing Open Gov Licence
 
 The Readme file in the lop level (Root) directory should contains
 
