@@ -16,7 +16,7 @@ To create a Github account please follow the instructions on the Github joining 
 
 ## 2. Register your account with the NHS England Productivity team
 
-Once you have created your Git hub account email digital.productivity@nhsx.nhs.uk and request you want contributors permissions to the NHS RPA directorate with the following details
+Once you have created your Git hub account email england.digital.productivity@nhs.net and request you want contributors permissions to the NHS RPA directorate with the following details
 
 1. Firstname
 2. Surname
