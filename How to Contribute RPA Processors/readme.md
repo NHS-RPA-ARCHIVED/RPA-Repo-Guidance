@@ -18,10 +18,13 @@ To create a Github account please follow the instructions on the Github joining 
 
 Once you have created your Git hub account email england.digital.productivity@nhs.net and request you want contributors permissions to the NHS RPA directorate with the following details
 
-1. Firstname
+1. First name
 2. Surname
 3. Organisation
-4. GitHub Username
+4. Job title
+5. What process codes you are aiming to upload 
+6. GitHub Username
+7. Details of any other colleagues in your team to be added
 
 Once we have received and vetted the detail the team will then be in contact to provide an update on contributor access
 
@@ -61,7 +64,7 @@ The Readme file in the lop level (Root) directory should contains
 - Credits
 
 
-Please not a copy of the Readme.md template is available in the Template respitory
+Please note a copy of the Readme.md template is available in the Template respitory
 
 ## 5. Upload your process and supporting data to GitHub
 
